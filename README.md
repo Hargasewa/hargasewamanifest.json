@@ -1,0 +1,2 @@
+# hargasewamanifest.json
+Hargasewa
