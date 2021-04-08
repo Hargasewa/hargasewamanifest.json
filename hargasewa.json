@@ -1,0 +1,38 @@
+{
+  "name": "Hargasewa",
+  "short_name": "Hargasewa",
+  "start_url": "https://www.Hargasewa.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Hargasewa adalah situs tentang informasi harga sewa atau rental dan perantara antara pemilik jasa sewa atau rental dengan penyewa.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s48/hargasewalogo.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s72/hargasewalogo.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s96/hargasewalogo.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s144/hargasewalogo.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s168/hargasewalogo.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s192/hargasewalogo.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oOIDJztqFbw/YFrXH1KbuNI/AAAAAAAAEfI/OZDxg30JkKoEKlaZAsOYyCOXSVIb9G41gCLcBGAsYHQ/s512/hargasewalogo.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
